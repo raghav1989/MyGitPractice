@@ -20,3 +20,5 @@
 20-git log -p -n-->To see the last n number of commits.
 21-git commit -amend-->To make changes in the previous commit
 22-to work in vm command line-->Always press I to edit,then press ESC,shift : and wq
+23-git checkout -- <file>...>" to discard changes in working directory
+24-git reset HEAD <file>..." to unstage
