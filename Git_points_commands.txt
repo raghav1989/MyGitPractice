@@ -9,4 +9,4 @@
 9-git log-->show commit logs
 10-rm -rf .git-->To delete the content of a folder or repository and unitialize a git repository.
 11-git clone-->Clone a repository into a new directory
-
+12-touch <filename>-->To create a file
