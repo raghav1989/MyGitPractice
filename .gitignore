@@ -1,4 +1,6 @@
 *.log
 dir/
 static/dir
+mydb.accdb
+
 
