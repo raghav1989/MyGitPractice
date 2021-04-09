@@ -10,3 +10,5 @@
 10-rm -rf .git-->To delete the content of a folder or repository and unitialize a git repository.
 11-git clone-->Clone a repository into a new directory
 12-touch <filename>-->To create a file
+13-git diff-->To see the difference between working directory and staging area
+14-.gitignore-->inculdes the file to be ignored
