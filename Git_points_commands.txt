@@ -1,0 +1,12 @@
+1-To increase the size of font (Zoom)in git terminal-->cntrl+
+2-git config --list-->To see the list of the configured variants like email n name
+3-git config --global user.name "Rkumar"-->To set name,email in git list
+4-git config user.name-->To see the name in git terminal
+5-git init-Create an empty Git repository or reinitialize an existing one
+6-git status-Show the working tree status ie-to track whether the code has been staged or has been commiitted.
+7-git add --a-->add changes from all tracked and untracked files to staging area
+8-git commit -m "<Message_name>"-->Record changes to the repository ie. push the changed code or commit the code to the repository.
+9-git log-->show commit logs
+10-rm -rf .git-->To delete the content of a folder or repository and unitialize a git repository.
+11-git clone-->Clone a repository into a new directory
+
