@@ -14,3 +14,5 @@
 14-.gitignore-->inculdes the file to be ignored.
 15-git diff --staged-->It compares the difference between the previous commit and present satged area.
 16-git commit -a -m "<comment>"-->To add the tracked files and staged files skiing the staging area
+17-git rm --cached <filename>--Remove files from the working tree and from the index
+18-git mv <Original_filename> <Renamed_filename>--Move or rename a file, a directory, or a symlink
