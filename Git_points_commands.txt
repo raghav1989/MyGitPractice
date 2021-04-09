@@ -16,3 +16,7 @@
 16-git commit -a -m "<comment>"-->To add the tracked files and staged files skiing the staging area
 17-git rm --cached <filename>--Remove files from the working tree and from the index
 18-git mv <Original_filename> <Renamed_filename>--Move or rename a file, a directory, or a symlink
+19-git log -p--To see all the last detaled commit
+20-git log -p -n-->To see the last n number of commits.
+21-git commit -amend-->To make changes in the previous commit
+22-to work in vm command line-->Always press I to edit,then press ESC,shift : and wq
