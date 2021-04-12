@@ -25,3 +25,4 @@
 25-git push - origin <branch_name>-->To push the content in the remote repository
 26-git config --global alias.<alias_name> '<command_name..commit or push or pull..any command>'-->To give the alias name to git commands
 27-git checkout -b <branch_name>-To switch to new branch for making the changes
+28-git checkout <branch_name>--to switch to existing branch for making or seeing the chnages
