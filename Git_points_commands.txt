@@ -22,3 +22,5 @@
 22-to work in vm command line-->Always press I to edit,then press ESC,shift : and wq
 23-git checkout -- <file>...>" to discard changes in working directory
 24-git reset HEAD <file>..." to unstage
+25-git push - origin <branch_name>-->To push the content in the remote repository
+26-git config --global alias.<alias_name> '<command_name..commit or push or pull..any command>'-->To give the alias name to git commands
